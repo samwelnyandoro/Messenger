@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/drawable/chat.xml" value="0.1715" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/drawable/ic_direction_right_white_24dp.xml" value="0.1715" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/drawable/ic_send_white_24dp.xml" value="0.1715" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/drawable/layerlist_circle_primary.xml" value="0.1715" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/drawable/layerlist_round_rectangle_white.xml" value="0.1715" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/drawable/person_outline.xml" value="0.1715" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/activity_main.xml" value="0.26974358974358975" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/chat_person.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/chats.xml" value="0.26974358974358975" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/chats_item.xml" value="0.26974358974358975" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/content_chat.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/custom_messages_layout.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/friend_request.xml" value="0.26974358974358975" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/friend_request_item.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/friends.xml" value="0.1" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/friends_item.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/signin.xml" value="0.26974358974358975" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/userprofile.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/layout/users_item.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/menu/bottom_navigation_items.xml" value="0.26974358974358975" />
+        <entry key="..\:/Users/TCL/AndroidStudioProjects/Messenger/app/src/main/res/menu/chat_person_more.xml" value="0.27395833333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
